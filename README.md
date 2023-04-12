@@ -1,7 +1,6 @@
 # AntiPatterns
 Creating Antipattern detectors and testing using Eclipse plugins
 
-
 582 Class Project: CodeSmell Detection
 Team members
 Garhgaj Singh
